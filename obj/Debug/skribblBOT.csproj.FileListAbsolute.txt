@@ -1,0 +1,17 @@
+C:\Users\lukas\OneDrive\Pulpit\KurnikDrawHack\kurnikDrawingHack\kurnikDrawingHack\bin\Debug\skribblBOT.exe.config
+C:\Users\lukas\OneDrive\Pulpit\KurnikDrawHack\kurnikDrawingHack\kurnikDrawingHack\bin\Debug\skribblBOT.exe
+C:\Users\lukas\OneDrive\Pulpit\KurnikDrawHack\kurnikDrawingHack\kurnikDrawingHack\bin\Debug\skribblBOT.pdb
+C:\Users\lukas\OneDrive\Pulpit\KurnikDrawHack\kurnikDrawingHack\kurnikDrawingHack\bin\Debug\TestApiCore.dll
+C:\Users\lukas\OneDrive\Pulpit\KurnikDrawHack\kurnikDrawingHack\kurnikDrawingHack\bin\Debug\TestApiWpf.dll
+C:\Users\lukas\OneDrive\Pulpit\KurnikDrawHack\kurnikDrawingHack\kurnikDrawingHack\bin\Debug\TestApiCore.pdb
+C:\Users\lukas\OneDrive\Pulpit\KurnikDrawHack\kurnikDrawingHack\kurnikDrawingHack\bin\Debug\TestApiCore.xml
+C:\Users\lukas\OneDrive\Pulpit\KurnikDrawHack\kurnikDrawingHack\kurnikDrawingHack\bin\Debug\TestApiWpf.pdb
+C:\Users\lukas\OneDrive\Pulpit\KurnikDrawHack\kurnikDrawingHack\kurnikDrawingHack\bin\Debug\TestApiWpf.xml
+C:\Users\lukas\OneDrive\Pulpit\KurnikDrawHack\kurnikDrawingHack\kurnikDrawingHack\obj\Debug\skribblBOT.csprojAssemblyReference.cache
+C:\Users\lukas\OneDrive\Pulpit\KurnikDrawHack\kurnikDrawingHack\kurnikDrawingHack\obj\Debug\skribblBOT.Form1.resources
+C:\Users\lukas\OneDrive\Pulpit\KurnikDrawHack\kurnikDrawingHack\kurnikDrawingHack\obj\Debug\skribblBOT.Properties.Resources.resources
+C:\Users\lukas\OneDrive\Pulpit\KurnikDrawHack\kurnikDrawingHack\kurnikDrawingHack\obj\Debug\skribblBOT.csproj.GenerateResource.cache
+C:\Users\lukas\OneDrive\Pulpit\KurnikDrawHack\kurnikDrawingHack\kurnikDrawingHack\obj\Debug\skribblBOT.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Pulpit\KurnikDrawHack\kurnikDrawingHack\kurnikDrawingHack\obj\Debug\skribblBOT.csproj.CopyComplete
+C:\Users\lukas\OneDrive\Pulpit\KurnikDrawHack\kurnikDrawingHack\kurnikDrawingHack\obj\Debug\skribblBOT.exe
+C:\Users\lukas\OneDrive\Pulpit\KurnikDrawHack\kurnikDrawingHack\kurnikDrawingHack\obj\Debug\skribblBOT.pdb
